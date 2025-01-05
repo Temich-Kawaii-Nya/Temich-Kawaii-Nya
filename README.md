@@ -7,7 +7,7 @@
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#" width="50px" height="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" width="50px" height="50px"/>
-    <img src="https://raw.githubusercontent.com/modesttree/Zenject/refs/heads/master/Documentation/Images/PNG_Zenject-colour%20(1).png" title="Zenject" width="50px" height="50px"/>
+    <img src="https://raw.githubusercontent.com/modesttree/Zenject/refs/heads/master/Documentation/Images/PNG_Zenject-colour%20(1).png" title="Zenject" width="192px" height="50px"/>
   </span>
 </body>
 <!--

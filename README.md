@@ -4,7 +4,7 @@
 </head>
 <body>
   <h4>Stack</h4>
-  <span>
+  <span style="display: block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#" width="50px" height="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" width="50px" height="50px"/>
     <img src="https://raw.githubusercontent.com/modesttree/Zenject/refs/heads/master/Documentation/Images/PNG_Zenject-colour%20(1).png" title="Zenject" width="173px" height="45px"/>

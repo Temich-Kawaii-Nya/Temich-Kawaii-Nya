@@ -1,7 +1,7 @@
-<div id=header align=center>
+<header id=header align=center>
   <h1>Hi there 👋</h1>
   <h3>I'm Unity and C# Developer</h3>
-</div>
+</header>
 <!--
 **Temich-Kawaii-Nya/Temich-Kawaii-Nya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

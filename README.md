@@ -3,8 +3,11 @@
   <h3>I'm Unity and C# Developer</h3>
 </head>
 <body>
+  <h4>Stack</h4>
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#" width="40px" height="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#" width="50px" height="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" width="50px" height="50px"/>
+    <img src="https://raw.githubusercontent.com/modesttree/Zenject/refs/heads/master/Documentation/Images/PNG_Zenject-colour%20(1).png" title="Zenject" width="50px" height="50px"/>
   </span>
 </body>
 <!--

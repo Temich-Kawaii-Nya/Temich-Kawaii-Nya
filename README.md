@@ -1,9 +1,9 @@
 <head id=header align=center>
   <h1>Hi there 👋</h1>
-  <h3>I'm Unity and C# Developer</h3>
+  <h2>I'm Unity and C# Developer</h2>
 </head>
 <body>
-  <h4>Stack</h4>
+  <h3>Stack</h3>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#" width="50px" height="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" width="50px" height="50px"/>

@@ -17,7 +17,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="Fastapi" width="30px" height="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="30px" height="30px"/>
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Temich-Kawaii-Nya&theme=algolia"/>
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Temich-Kawaii-Nya&theme=swift"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Temich-Kawaii-Nya&theme=swift"/>
+  </div>
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Temich-Kawaii-Nya&theme=swift"/>
+  </div>
 </body>
 <!--
 **Temich-Kawaii-Nya/Temich-Kawaii-Nya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

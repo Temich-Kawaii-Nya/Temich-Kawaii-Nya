@@ -4,19 +4,19 @@
 </head>
 <body>
   <h4>Stack</h4>
-  <span style="display: block">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="c#" width="50px" height="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity" width="50px" height="50px"/>
     <img src="https://raw.githubusercontent.com/modesttree/Zenject/refs/heads/master/Documentation/Images/PNG_Zenject-colour%20(1).png" title="Zenject" width="173px" height="45px"/>
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="Docker" width="50px" height="50px"/>
-  </span>
-  <span>
+  </div>
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JS" width="30px" height="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="30px" height="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="30px" height="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="Fastapi" width="30px" height="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="30px" height="30px"/>
-  </span>
+  </div>
 </body>
 <!--
 **Temich-Kawaii-Nya/Temich-Kawaii-Nya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
